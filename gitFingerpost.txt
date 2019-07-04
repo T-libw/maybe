@@ -1,8 +1,0 @@
-
-git pull ---跟新本地代码
-git staus ---查看变更集
-git add 提交文件路径 ---保存本地变更
-git commit -m ---提交变更集
-git push ---跟新提交代码
-git checkout --
-git diff ---查看提交文件版本
